@@ -1,0 +1,6 @@
+{
+  "name": "FolioPrep — Student Resume Studio",
+  "description": "AI-powered student resume generator with structured profile builder, Gemini content refinement, job description keyword analysis, customizable templates, live preview, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
